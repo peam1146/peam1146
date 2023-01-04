@@ -27,7 +27,7 @@ I'm Supakarin Niansupornpun, also known as Peam, and I'm a passionate developer.
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peam1146&layout=compact&theme=tokyonight&hide_border=true&hide=html,SCSS,CSS,java&exclude_repo=.dotfiles" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peam1146&layout=compact&theme=tokyonight&hide_border=true&hide=html,SCSS,CSS,java&exclude_repo=.dotfiles&count_private=true" />
     </a>
 </p>
 
