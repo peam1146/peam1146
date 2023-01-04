@@ -26,7 +26,7 @@ I'm Supakarin Niansupornpun, also known as Peam, and I'm a passionate developer.
 ## 🎉 Most Used Languages
 
 <p align="center">
-    <a src="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peam1146&layout=compact&theme=tokyonight&hide_border=true&hide=html,SCSS,CSS,java&exclude_repo=.dotfiles" />
     </a>
 </p>
@@ -34,13 +34,13 @@ I'm Supakarin Niansupornpun, also known as Peam, and I'm a passionate developer.
 ## 📈 My GitHub Stat
 
 <p align="center">
-    <a src="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=peam1146&theme=tokyonight">
     </a>
 </p>
 
 <p align="center">
-    <a src="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=peam1146&theme=tokyonight">
     </a>
 </p>
