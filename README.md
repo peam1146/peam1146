@@ -17,6 +17,12 @@
   </a>
 </p>
 
+<p align="center"> 
+    <a href ="https://user-badge.committers.top/thailand_private/peam1146" target="_blank">
+        <img src="https://user-badge.committers.top/thailand_private/peam1146.svg">
+    </a>
+</p>
+
 <p align="center"><h1> Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?153
 1849430" width="30"/></h1></p>
 
