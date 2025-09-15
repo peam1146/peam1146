@@ -104,10 +104,6 @@ I'm Supakarin Niansupornpun, also known as Peam, and I'm a passionate developer.
 ### Novice
 
 
-<a href="https://rust-lang.org" target="_blank">
-    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
-</a>
-
 <a href="https://ruby-lang.org" target="_blank">
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </a>
